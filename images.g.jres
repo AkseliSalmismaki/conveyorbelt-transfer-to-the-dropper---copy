@@ -1,0 +1,37 @@
+{
+    "image2": {
+        "data": "hwQQABAAAAB3d3d3d3d3d3d3d3d3d3d3d3d3d3e7e3d3d7e7u7t7d3e3u7u7u3t3t7u7u4uIiHe7u7uIiIiId7u7i5iZmYh4u7uImIiZiIi7u4iZiJiJiLu7iJiJmYiIt7uIiJmJuLt3u7uIiLu7u3e7u7u7u7u7d3e7u7u7d3d3d3d3d3d3dw==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "EndPoint"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA//8AAAAAAADf/QAA8P///9/9AADw3f//3/0AAPDd///f/QAA8P///9/9AAAAAAAA3/0AAAAAAAD//wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Dropper"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA//8AAAAAAACP+AAA8P///4/4AADwiP//j/gAAPCI//+P+AAA8P///4/4AAAAAAAAj/gAAAAAAAD//wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Block 5 dollar"
+    },
+    "image4": {
+        "data": "hwQRAAsAAAD//////w8AAC8iIiIiDwAAL////y8PAAAvL/IiLw8AAC8v8iIvDwAAL/Iv/yIPAAAvIiIiIg8AAC8iIv8iDwAALyIiIi8PAAAvIiIiLw8AAC8iIv8iDwAAL/IvIiIPAAAvIvIiLw8AAC8i8vIvDwAAL/L//yIPAAAvIiIiIg8AAP//////DwAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "buy button"
+    },
+    "image5": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAzMzMzMzMzMC7u7u7u7u7wLu7u7u7u7vAu7u7u7u7u8CZmZmZmZmZwJmZmZmZmZnAu7u7u7u7u8C7u7u7u7u7wLu7u7u7u7vAzMzMzMzMzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "upgrador"
+    },
+    "image6": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Cube"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
